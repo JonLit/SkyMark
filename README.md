@@ -2,7 +2,7 @@
 a cross-platform, openGL (Processing P2D) "Benchmark"
 
 # How it Works
-SkyMark draws a random point on the x-Axis, for each vertical line of pixels.
+SkyMark draws a random point with a random radius of 1.4 to 3 px on the x-Axis, for each vertical line of pixels.
 In v0.1 and v0.2 it does it three times.
 
 # Score
